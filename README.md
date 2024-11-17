@@ -1,4 +1,4 @@
-# ML_music_recommender
+# ML-music-recommender
 
 music_recommender_data_creation is the document used for collecting data from youtube and for extracting audio features from the songs 
 
